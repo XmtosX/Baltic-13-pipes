@@ -1,3 +1,6 @@
+/*
+same solution as in ur tutorial
+*/
 #include <bits/stdc++.h>
 using namespace std;
 const int N=1e5+5;
